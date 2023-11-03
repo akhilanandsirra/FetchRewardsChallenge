@@ -37,5 +37,6 @@ That's it! the iOS app should now be running on the selected device or simulator
 - To maintain code organization and separation of concerns, I chose to use the `MVVM` architecture, which separates models, views, and viewModels
 - To fetch the Data from API, Implemented a generic Networking Layer 
 - To keep up with modern development practices, I opted for the newer `async/await` methods of URLSession
-- To ensure consistent visual design, I used colors that comply with both dark and light modes. Additionally, to provide a more immersive experience, included a "watch video" button that takes the user to the recipe video in the detail view
+- To ensure consistent visual design, I used colors that comply with dark and light modes. Additionally, to provide a more immersive experience, included a "watch video" button that takes the user to the recipe video in the detail view
 - To ensure that the app displays only meaningful data, I added a filter to remove any `null` or `empty` values from the API before displaying them
+- Designed an App Icon using Adobe Illustrator
